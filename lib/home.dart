@@ -65,7 +65,6 @@ class _HomeState extends State<Home> {
 
   }
 
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -73,9 +72,10 @@ class _HomeState extends State<Home> {
         backgroundColor: Colors.purple,
         centerTitle: true,
         title: Text(
-          "Números Aleatórios",
+          "Aleatórios",
           style: TextStyle(
             color: Colors.white,
+            fontWeight: FontWeight.bold
           ),
         ),
         actions: <Widget>[
