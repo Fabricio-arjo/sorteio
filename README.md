@@ -1,6 +1,6 @@
-# sorteio
+# Random
 
 
-App para gerar números aleatórios.
+App to generate random numbers. 
 
 
